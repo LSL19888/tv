@@ -29,10 +29,11 @@
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
 TVB J2,http://cczylive.chuangwanghulian.cn/live/zy_1525938302893.flv?auth_key=1593500120-55358871-0-e69d595da9fb1e475a661f81e91ec0a9
+TVB J2,http://fang.clanxin.com/AppName/StreamName.m3u8
+TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 TVB J2,http://b.jahddci.top/79789/j2tv.m3u8?auth_key=1601855650-0-0-d2ab0ce796c9a95d1bf6d59d6cf551d0
 TVB J2,http://h.ygsaeq.cn/qq133065988/hkj2__redirect__1392.m3u8
 TVB J2,rtmp://p.ygsaeq.cn/atv/01kjzcom
-TVB J2,https://www.yinyishiye.com/mylive/live.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
