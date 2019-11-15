@@ -1,13 +1,11 @@
 潮云-潮汕
 修复TVB频道,
+汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
 汕头综合,http://185.239.226.6:5178/gdyx.php?id=shantouyitaogaoqing_4500
-汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
-汕头综合,http://www.zgrqq.top/gudou.m3u8?id=shantouyitaogaoqing_4500
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
 汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://185.239.226.6:5178/gdyx.php?id=shantouertaogaoqing_4500
-汕头生活,http://www.zgrqq.top/gudou.m3u8?id=shantouertaogaoqing_4500
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
 汕头影视,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv3
 汕头影视,http://185.239.226.6:5178/gdyx.php?id=shantousantaogaoqing_4500
@@ -476,7 +474,7 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 TVB翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB無綫新聞,https://r05.wscdn.hls.xiaoka.tv/live/d8a11686ab461aba1bdaabacb3ae6dcdb/playlist.m3u8
+TVB無綫新聞,https://r05.wscdn.hls.xiaoka.tv/live/d86dcdb686ab461aba1bdaaba11acb3ae/playlist.m3u8
 TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
