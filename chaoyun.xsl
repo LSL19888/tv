@@ -287,8 +287,7 @@ CCTV-NEWS,http://125.88.57.21:30001/PLTV/88888956/224/3221227704/1.m3u8
 TVB翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB無綫新聞,https://r05.wscdn.hls.xiaoka.tv/live/d86dcdb686ab461aba1bdaaba11acb3ae/playlist.m3u8
-TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1571753940~exp=1571840340~acl=/newslive/smil:mobile_inews.smil/*~hmac=129bc07786066aaff778a891191c194c3df622ff4c8e9d99c46bb108c20beb35
+TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1573910002~exp=1573996402~acl=/newslive/smil:mobile_inews.smil/*~hmac=1cc7a2a009350f87c026b83a3ea99d952f9a6cecda4061139b0509c2f3a2924b
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
