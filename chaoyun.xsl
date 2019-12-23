@@ -298,6 +298,8 @@ TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 TVB無綫新聞,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 TVB無綫新聞,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
+TVB無綫財經,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
+TVB無綫財經,P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
