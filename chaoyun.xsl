@@ -35,6 +35,7 @@
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
 TVB J2,http://tv.mvchao.com/AppName/StreamName.m3u8
+TVB J2,P2p://120.79.144.205:9906/5dc08f31000cea6501b84c3662de0c85.ts
 TVB J2,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
