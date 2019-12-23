@@ -29,6 +29,7 @@
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
 TVB J2,http://tv.mvchao.com/AppName/StreamName.m3u8
+TVB J2,P2p://120.79.144.205:9906/5dc08f31000cea6501b84c3662de0c85.ts
 TVB J2,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
@@ -688,6 +689,7 @@ CETV-4,http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
 新三国演义,http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
 新水浒传,http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_1200.m3u8
 西游记,http://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+港版西游记,http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
 铁齿铜牙纪晓岚,http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
 康熙王朝,http://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
 雍正王朝,http://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
