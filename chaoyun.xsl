@@ -401,6 +401,7 @@ TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.f
 龍華偶像,http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
 龍祥電影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 壹綜合,http://cloud-play.hhalloy.com/live/3cec0560564363facfd892d88b741c62.flv
+壹綜合,mitv://51.79.41.138:18912/5b1409400006a23517d1bf027c3834c3.ts.ts
 壹電影,http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.flv
 緯來電影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 緯來體育,http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
