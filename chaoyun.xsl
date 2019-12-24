@@ -34,6 +34,7 @@
 ﻿潮云-香港-常用
 TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
+TVB J2,http://t2.mvchao.cn/AppName/StreamName.m3u8
 TVB J2,http://fang.hongxin123.com/AppName/StreamName.m3u8
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
