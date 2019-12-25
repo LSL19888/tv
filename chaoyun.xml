@@ -26,9 +26,9 @@
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 
 ﻿潮云-香港-常用
+TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
-TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
 TVB J2,rtmp://222.186.61.82/atv/01kjzcom
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://t2.mvchao.cn/AppName/StreamName.m3u8
@@ -483,8 +483,8 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 TVB翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1577282516~exp=1577368916~acl=/newslive/smil:mobile_inews.smil/*~hmac=ad43173e1861c5d2220a2548c1f5a56f3361cfaf9b8d52995be5457695bd08aa
 TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/chunklist_b712704.m3u8
-TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1577182638~exp=1577269038~acl=/newslive/smil:mobile_inews.smil/*~hmac=ccec4fceccfe8d19e9981a341284da4d2cc1595792a236d807216a623f4d9855
 TVB無綫新聞,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
