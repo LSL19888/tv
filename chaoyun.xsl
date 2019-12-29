@@ -41,12 +41,14 @@ TVB J2,http://t2.mvchao.cn/AppName/StreamName.m3u8
 TVB J2,http://fang.hongxin123.com/AppName/StreamName.m3u8
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&player=QF0AAM9lSsFcgdAV&secondToken=secondToken%3AEJC_dQOTDY7XV6WYbMbUrTt1K3k&streamid=dsdtv%3Adsdtv%2F9de1ac6a9a4642e1aac41462c6159b92&v3=1
+鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
 鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
 鳳凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
 鳳凰資訊,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
@@ -299,9 +301,9 @@ CCTV-NEWS,http://125.88.57.21:30001/PLTV/88888956/224/3221227704/1.m3u8
 TVB翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1577626329~exp=1577712729~acl=/newslive/smil:mobile_inews.smil/*~hmac=7f0e266ac450fbc4784420921e5ee81cfd19a6eb1d3462dae7c8b471c5183189
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
-TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
+TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1577626329~exp=1577712729~acl=/newslive/smil:mobile_inews.smil/*~hmac=7f0e266ac450fbc4784420921e5ee81cfd19a6eb1d3462dae7c8b471c5183189
+TVB無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB明珠台,http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
