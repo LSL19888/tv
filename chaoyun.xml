@@ -499,7 +499,7 @@ TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_c
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
-TVB無綫新聞,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1577626329~exp=1577712729~acl=/newslive/smil:mobile_inews.smil/*~hmac=7f0e266ac450fbc4784420921e5ee81cfd19a6eb1d3462dae7c8b471c5183189
+TVB無綫新聞,vjms://23.237.32.179:8500:3502/live/cid=366
 TVB無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 TVB無綫財經,vjms://121.14.222.75:8500:3502/live/cid=363
 TVB無綫財經,vjms://23.237.33.155:8500:3502/live/cid=363
@@ -566,7 +566,6 @@ HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 中視,vjms://121.14.222.75:8500:3502/live/cid=452
 中視,vjms://23.237.33.155:8500:3502/live/cid=452
 中視,vjms://113.96.133.24:8500:3502/live/cid=452
-中視,vjms://113.96.133.24:8500:3502/live/cid=452
 中視新聞,http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 中視經典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 台視,vjms://121.14.222.75:8500:3502/live/cid=453
@@ -591,7 +590,7 @@ HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 三立都會,vjms://121.14.222.75:8500:3502/live/cid=226
 三立都會,vjms://23.237.33.155:8500:3502/live/cid=226
 三立國際,vjms://121.14.222.75:8500:3502/live/cid=332
-三立國際,vjms://23.237.32.155:8500:3502/live/cid=332
+三立國際,vjms://23.237.33.155:8500:3502/live/cid=332
 三立國際,vjms://23.237.32.179:8500:3502/live/cid=332
 TVBS HD,vjms://121.14.222.75:8500:3502/live/cid=348
 TVBS HD,vjms://23.237.33.155:8500:3502/live/cid=348
@@ -656,7 +655,7 @@ TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.f
 年代新聞,vjms://121.14.222.75:8500:3502/live/cid=455
 年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
 年代MUCH,vjms://121.14.222.75:8500:3502/live/cid=439
-年代MUCH,vjms://23.237.32.155:8500:3502/live/cid=439
+年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
 年代MUCH,vjms://23.237.32.179:8500:3502/live/cid=439
 八大綜合,vjms://121.14.222.75:8500:3502/live/cid=354
 八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
@@ -671,7 +670,7 @@ TVBS精彩,http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.f
 衛視中文,http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
 衛視電影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 衛視電影,vjms://121.14.222.75:8500:3502/live/cid=101
-衛視電影,vjms://23.237.32.155:8500:3502/live/cid=101
+衛視電影,vjms://23.237.33.155:8500:3502/live/cid=101
 衛視電影,vjms://23.237.32.179:8500:3502/live/cid=101
 衛視洋片,http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
 衛視洋片,vjms://121.14.222.75:8500:3502/live/cid=94
