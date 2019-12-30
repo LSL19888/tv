@@ -517,8 +517,6 @@ TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有線電視18台,vjms://121.14.222.75:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
-MTV,vjms://121.14.222.75:8500:3502/live/cid=52
-MTV,vjms://23.237.33.155:8500:3502/live/cid=52
 RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-32電視台,http://61.93.125.49:9981/stream/channelid/1937987518?ticket=86a4cdeced8f00e53b3f0410f8f565741e14ea3f&profile=pass
@@ -712,7 +710,7 @@ FOX 3HD,vjms://23.237.33.155:8500:3502/live/cid=95
 动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
 Fashion,vjms://121.14.222.75:8500:3502/live/cid=399
 Fashion,vjms://23.237.33.155:8500:3502/live/cid=399
-TV5MONDE,vjms://121.14.222.75:8500:3502/live/cid=396#vjms://23.237.33.155:8500:3502/live/cid=396
+TV5MONDE,vjms://121.14.222.75:8500:3502/live/cid=396
 TV5MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
