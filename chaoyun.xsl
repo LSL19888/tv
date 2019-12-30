@@ -544,10 +544,10 @@ FOX 3HD,vjms://23.237.33.155:8500:3502/live/cid=95
 探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
 动物星球,vjms://121.14.222.75:8500:3502/live/cid=3
 动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
-Fashion,vjms://121.14.222.75:8500:3502/live/cid=399
-Fashion,vjms://23.237.33.155:8500:3502/live/cid=399
-TV5MONDE,vjms://121.14.222.75:8500:3502/live/cid=396
-TV5MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
+法国时尚Fashion,vjms://121.14.222.75:8500:3502/live/cid=399
+法国时尚Fashion,vjms://23.237.33.155:8500:3502/live/cid=399
+TV5 MONDE,vjms://121.14.222.75:8500:3502/live/cid=396
+TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
