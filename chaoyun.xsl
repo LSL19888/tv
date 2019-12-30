@@ -394,6 +394,8 @@ HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 台視,vjms://23.237.33.155:8500:3502/live/cid=453
 公視,vjms://121.14.222.75:8500:3502/live/cid=436
 公視,vjms://23.237.33.155:8500:3502/live/cid=436
+壹新聞,vjms://121.14.222.75:8500:3502/live/cid=445
+壹新聞,vjms://23.237.33.155:8500:3502/live/cid=445
 三立新聞,vjms://121.14.222.75:8500:3502/live/cid=352
 三立新聞,vjms://23.237.33.155:8500:3502/live/cid=352
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
@@ -455,8 +457,6 @@ TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
 龍華影劇,http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
 龍華偶像,http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
 龍祥電影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
-壹新聞,vjms://121.14.222.75:8500:3502/live/cid=445
-壹新聞,vjms://23.237.33.155:8500:3502/live/cid=445
 緯來電影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 緯來體育,http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
 緯來體育,vjms://121.14.222.75:8500:3502/live/cid=202
