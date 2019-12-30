@@ -353,8 +353,10 @@ TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有線電視18台,vjms://121.14.222.75:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
-RHK-31電視台(需代理),http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
-RHK-32電視台(需代理),http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
+RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+RHK-32電視台,http://61.93.125.49:9981/stream/channelid/1937987518?ticket=86a4cdeced8f00e53b3f0410f8f565741e14ea3f&profile=pass
+RHK-32電視台,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
