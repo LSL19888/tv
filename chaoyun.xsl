@@ -149,8 +149,9 @@ CCTV-15音乐,vjms://23.237.33.155:8500:3502/live/cid=465
 CCTV-15音乐,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=134&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV-17农业农村,rtsp://183.58.12.204/PLTV/88888905/224/3221229870/10000100000000060000000010232873_0.smil?icpid=88888888
 CCTV-17农业农村,http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2fJbtYz8kEYu99sUSfTSd48Av%2fzOzjC1
-CCTV-NEWS,rtsp://183.59.241.162/PLTV/88888895/224/3221226786/00000100000000060000000000339417_0.smil?icpid=88888888
+CCTV-NEWS,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/00000100000000060000000000339417_0.smil?icpid=88888888
 CCTV-NEWS,http://125.88.57.21:30001/PLTV/88888956/224/3221227704/1.m3u8
+CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/00000100000000060000000000339417_0.smil?icpid=88888888
 风云足球,vjms://23.237.33.155:8500:3502/live/cid=88
 求索生活,vjms://23.237.33.155:8500:3502/live/cid=471
 
@@ -347,6 +348,8 @@ TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+陽光衛視,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有線電視18台,vjms://121.14.222.75:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
@@ -537,6 +540,17 @@ FOX 3HD,vjms://23.237.33.155:8500:3502/live/cid=95
 探索世界,vjms://23.237.33.155:8500:3502/live/cid=440
 探索科学,vjms://121.14.222.75:8500:3502/live/cid=457
 探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
+新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
+新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加东台,https://live.ntdimg.com/mllive220/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 
 潮云-CIBN轮播
 电影导视,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
