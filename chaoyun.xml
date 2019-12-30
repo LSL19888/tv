@@ -60,6 +60,13 @@ TVB J2,http://3085489610.cloudvdn.com/a.m3u8?domain=pili-live-hdl.qhmywl.com&pla
 鳳凰資訊,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
 鳳凰資訊,vjms://121.14.222.75:8500:3502/live/cid=401
 鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
+广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8
+广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
+广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
+广东体育,http://stream.guihet.com/migu/index.php?id=624303497
+广东体育,http://cdn12.switchium.com/gdty.m3u8
+广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
+广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 
 ﻿潮云-CCTV
 CCTV-1综合,http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
@@ -450,13 +457,6 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
 
 ﻿潮云-广东
-广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8
-广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
-广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
-广东体育,http://stream.guihet.com/migu/index.php?id=624303497
-广东体育,http://cdn12.switchium.com/gdty.m3u8
-广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
-广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/playlist.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东经济科教,http://nclive.grtn.cn/tvs1hd/playlist.m3u8
@@ -708,10 +708,10 @@ FOX 3HD,vjms://23.237.33.155:8500:3502/live/cid=95
 探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
 动物星球,vjms://121.14.222.75:8500:3502/live/cid=3
 动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
-Fashion,vjms://121.14.222.75:8500:3502/live/cid=399
-Fashion,vjms://23.237.33.155:8500:3502/live/cid=399
-TV5MONDE,vjms://121.14.222.75:8500:3502/live/cid=396
-TV5MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
+法国时尚Fashion,vjms://121.14.222.75:8500:3502/live/cid=399
+法国时尚Fashion,vjms://23.237.33.155:8500:3502/live/cid=399
+TV5 MONDE,vjms://121.14.222.75:8500:3502/live/cid=396
+TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
