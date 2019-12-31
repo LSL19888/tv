@@ -29,10 +29,7 @@
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
 TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
-TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
-TVB J2,rtmp://222.186.61.82/atv/01kjzcom
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
-TVB J2,http://t2.mvchao.cn/AppName/StreamName.m3u8
 TVB J2,http://fang.hongxin123.com/AppName/StreamName.m3u8
 TVB J2,vjms://121.14.222.75:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
@@ -698,15 +695,15 @@ WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.
 Eleven体育plue,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
 Eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
 FOX体育,http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
-FOX 2 Sports,http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
-FOX 3HD,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-FOX 3HD,vjms://121.14.222.75:8500:3502/live/cid=95
-FOX 3HD,vjms://23.237.33.155:8500:3502/live/cid=95
-国家地理野生,http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-国家地理野生,vjms://121.14.222.75:8500:3502/live/cid=115
-国家地理野生,vjms://23.237.33.155:8500:3502/live/cid=115
+FOX 2 HD,http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
+FOX 3 HD,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+FOX 3 HD,vjms://121.14.222.75:8500:3502/live/cid=95
+FOX 3 HD,vjms://23.237.33.155:8500:3502/live/cid=95
 国家地理HD,vjms://121.14.222.75:8500:3502/live/cid=263
 国家地理HD,vjms://23.237.33.155:8500:3502/live/cid=263
+国家地理频道,vjms://121.14.222.75:8500:3502/live/cid=115
+国家地理频道,vjms://23.237.33.155:8500:3502/live/cid=115
+国家地理野生,http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
 探索频道,vjms://121.14.222.75:8500:3502/live/cid=457
 探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
 探索世界,vjms://121.14.222.75:8500:3502/live/cid=440
