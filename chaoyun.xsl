@@ -39,6 +39,7 @@ TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://fang.hongxin123.com/AppName/StreamName.m3u8
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://121.14.222.75:8500:3502/live/cid=368
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 鳳凰中文,vjms://121.14.222.75:8500:3502/live/cid=400
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
@@ -483,6 +484,7 @@ TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_c
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
+TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 TVB明珠台,vjms://121.14.222.75:8500:3502/live/cid=367
@@ -535,6 +537,7 @@ HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 ﻿潮云-台湾
 民視,vjms://23.237.33.155:8500:3502/live/cid=450
 民視,vjms://121.14.222.75:8500:3502/live/cid=450
+民視,vjms://58.215.133.185:8500:3502/live/cid=450
 民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
 民視新聞,vjms://121.14.222.75:8500:3502/live/cid=454
 華視,http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
