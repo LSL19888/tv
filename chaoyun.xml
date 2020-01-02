@@ -57,9 +57,9 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 鳳凰資訊,vjms://121.14.222.75:8500:3502/live/cid=401
 鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
 广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8
+广东体育,http://stream.guihet.com/migu/index.php?id=624303497
 广东体育,vjms://121.14.222.75:8500:3502/live/cid=336
 广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
-广东体育,http://stream.guihet.com/migu/index.php?id=624303497
 广东体育,http://cdn12.switchium.com/gdty.m3u8
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
@@ -205,8 +205,6 @@ CCTV-17农业农村,http://223.110.241.204:6610/gitv/live1/G_CCTV-17/G_CCTV-17/
 CCTV-17农业农村,http://223.110.242.130:6610/gitv/live1/G_CCTV-17/1.m3u8/1.m3u8
 CCTV-NEWS,http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-风云足球,vjms://23.237.33.155:8500:3502/live/cid=88
-求索生活,vjms://23.237.33.155:8500:3502/live/cid=471
 
 ﻿潮云-卫视
 湖南卫视,http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
@@ -690,14 +688,13 @@ WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.
 博斯网球,http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv
 博斯运动1,http://cloud-play.hhalloy.com/live/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
 博斯运动2,http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flv
-智林体育,http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.flv
 Eleven体育plue,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
 Eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
-FOX体育,http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
-FOX 2 HD,http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
-FOX 3 HD,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-FOX 3 HD,vjms://121.14.222.75:8500:3502/live/cid=95
-FOX 3 HD,vjms://23.237.33.155:8500:3502/live/cid=95
+FOX体育 HD,http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
+FOX体育2 HD,http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
+FOX体育3 HD,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+FOX体育3 HD,vjms://121.14.222.75:8500:3502/live/cid=95
+FOX体育3 HD,vjms://23.237.33.155:8500:3502/live/cid=95
 国家地理HD,vjms://121.14.222.75:8500:3502/live/cid=263
 国家地理HD,vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理频道,vjms://121.14.222.75:8500:3502/live/cid=115
@@ -730,10 +727,48 @@ TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 
 ﻿潮云-IPTV
+CCTV-风云剧场,http://stream.guihet.com/migu/index.php?id=623338051
+CCTV-风云剧场,rtmp://58.200.131.2:1935/livetv/fyjctv
+CCTV-风云音乐,http://stream.guihet.com/migu/index.php?id=623338072
+CCTV-风云音乐,rtmp://58.200.131.2:1935/livetv/fyyytv
+CCTV-风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
+CCTV-风云足球,vjms://23.237.33.155:8500:3502/live/cid=88
+CCTV-求索生活,vjms://23.237.33.155:8500:3502/live/cid=471
+CCTV-发现之旅,http://stream.guihet.com/migu/index.php?id=624878970
+CCTV-高网,http://stream.guihet.com/migu/index.php?id=621984921
+CCTV-国防军事,http://stream.guihet.com/migu/index.php?id=623338073
+CCTV-国防军事,rtmp://58.200.131.2:1935/livetv/gfjstv
+CCTV-怀旧剧场,http://stream.guihet.com/migu/index.php?id=623364608
+CCTV-怀旧剧场,rtmp://58.200.131.2:1935/livetv/hjjctv
+CCTV-女性时尚,http://stream.guihet.com/migu/index.php?id=623338081
+CCTV-世界地理,http://stream.guihet.com/migu/index.php?id=623338083
+CCTV-世界地理,rtmp://58.200.131.2:1935/livetv/sjdltv
+CCTV-央视台球,http://stream.guihet.com/migu/index.php?id=603842910
+CGTN-阿拉伯语,http://live.cgtn.com/1000a/prog_index.m3u8
+CGTN-阿拉伯语,http://stream.guihet.com/migu/index.php?id=609154345
+CGTN-俄语,http://live.cgtn.com/1000r/prog_index.m3u8
+CGTN-俄语,http://stream.guihet.com/migu/index.php?id=609006446
+CGTN-法语,http://live.cgtn.com/1000f/prog_index.m3u8
+CGTN-法语,http://stream.guihet.com/migu/index.php?id=609006476
+CGTN-西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN-西班牙语,http://stream.guihet.com/migu/index.php?id=609006450
+CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN-英语,rtmp://58.200.131.2:1935/livetv/cctv16
+CNC新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
 CETV-1,http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/
+CETV-1,http://stream.guihet.com/migu/index.php?id=649531734
+CETV-1,http://stream.guihet.com/migu/index.php?id=649531772
+CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
+CETV-1,http://39.135.36.146:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&amp;Contentid=1000000002000027253&amp;livemode=1&amp;stbId=005203FF000360100001001A34C0CD33&amp;userToken=4ef1f6fdd53988bdf19472c73151206f21vv&amp;usergroup=g21077200000&amp;version=1.0&amp;owaccmark=1000000002000027253&amp;owchid=ystenlive&amp;owsid=1106497909461616097&amp;AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhOJwKbFFUvff7rym6ZRGjqhoGIqpkmAjf48GP9I33YEiXzrp2cuKEymd6COk8Pa3q
 CETV-2,http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
+CETV-2,http://stream.guihet.com/migu/index.php?id=649532169
+CETV-2,rtmp://58.200.131.2:1935/livetv/cetv2
 CETV-3,http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
+CETV-3,http://stream.guihet.com/migu/index.php?id=649531756
+CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
 CETV-4,http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
+CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
+CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
 
 潮云-CIBN轮播
 电影导视,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
