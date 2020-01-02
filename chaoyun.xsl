@@ -37,11 +37,11 @@ TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://fang.hongxin123.com/AppName/StreamName.m3u8
-TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://121.14.222.75:8500:3502/live/cid=368
+TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
-鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 鳳凰中文,vjms://121.14.222.75:8500:3502/live/cid=400
+鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
@@ -49,8 +49,8 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 鳳凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 鳳凰資訊,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
-鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
 鳳凰資訊,vjms://121.14.222.75:8500:3502/live/cid=401
+鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
 鳳凰資訊,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
@@ -60,8 +60,8 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?icpid=88888888
 广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8
 广东体育,http://stream.guihet.com/migu/index.php?id=624303497
-广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
 广东体育,vjms://112.50.243.8:8500:3502/live/cid=336
+广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 
@@ -478,16 +478,16 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 
 潮云-香港
 TVB翡翠台,http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
-TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台,vjms://121.14.222.75:8500:3502/live/cid=362
+TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
+TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
-TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 TVB明珠台,vjms://121.14.222.75:8500:3502/live/cid=367
+TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -503,8 +503,8 @@ TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 陽光衛視,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
 有線電視18台,vjms://121.14.222.75:8500:3502/live/cid=364
+有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
 RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-32電視台,http://61.93.125.49:9981/stream/channelid/1937987518?ticket=86a4cdeced8f00e53b3f0410f8f565741e14ea3f&profile=pass
@@ -516,8 +516,8 @@ HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 ﻿潮云-澳门
 澳亞衛視,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-澳亞衛視,vjms://23.237.33.155:8500:3502/live/cid=337
 澳亞衛視,vjms://121.14.222.75:8500:3502/live/cid=337
+澳亞衛視,vjms://23.237.33.155:8500:3502/live/cid=337
 澳亞衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 澳門衛視,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 澳門衛視,http://live.mastvnet.com/iVx460D/500/live.m3u8
@@ -535,77 +535,77 @@ HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
-民視,vjms://23.237.33.155:8500:3502/live/cid=450
 民視,vjms://121.14.222.75:8500:3502/live/cid=450
+民視,vjms://23.237.33.155:8500:3502/live/cid=450
 民視,vjms://58.215.133.185:8500:3502/live/cid=450
-民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
 民視新聞,vjms://121.14.222.75:8500:3502/live/cid=454
+民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
 華視,http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
-華視,vjms://23.237.33.155:8500:3502/live/cid=451
 華視,vjms://121.14.222.75:8500:3502/live/cid=451
+華視,vjms://23.237.33.155:8500:3502/live/cid=451
 中視,http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
-中視,vjms://23.237.33.155:8500:3502/live/cid=452
 中視,vjms://121.14.222.75:8500:3502/live/cid=452
+中視,vjms://23.237.33.155:8500:3502/live/cid=452
 中視新聞,http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
 中視經典,http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
-台視,vjms://23.237.33.155:8500:3502/live/cid=453
 台視,vjms://121.14.222.75:8500:3502/live/cid=453
-公視,vjms://23.237.33.155:8500:3502/live/cid=436
+台視,vjms://23.237.33.155:8500:3502/live/cid=453
 公視,vjms://121.14.222.75:8500:3502/live/cid=436
-壹新聞,vjms://23.237.33.155:8500:3502/live/cid=445
+公視,vjms://23.237.33.155:8500:3502/live/cid=436
 壹新聞,vjms://121.14.222.75:8500:3502/live/cid=445
-三立新聞,vjms://23.237.33.155:8500:3502/live/cid=352
+壹新聞,vjms://23.237.33.155:8500:3502/live/cid=445
 三立新聞,vjms://121.14.222.75:8500:3502/live/cid=352
+三立新聞,vjms://23.237.33.155:8500:3502/live/cid=352
 三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立台灣,http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
-三立台灣,vjms://23.237.33.155:8500:3502/live/cid=437
 三立台灣,vjms://121.14.222.75:8500:3502/live/cid=437
-三立都會,vjms://23.237.33.155:8500:3502/live/cid=226
+三立台灣,vjms://23.237.33.155:8500:3502/live/cid=437
 三立都會,vjms://121.14.222.75:8500:3502/live/cid=226
-TVBS HD,vjms://23.237.33.155:8500:3502/live/cid=349
+三立都會,vjms://23.237.33.155:8500:3502/live/cid=226
 TVBS HD,vjms://121.14.222.75:8500:3502/live/cid=349
-TVBS新聞,vjms://23.237.33.155:8500:3502/live/cid=348
+TVBS HD,vjms://23.237.33.155:8500:3502/live/cid=349
 TVBS新聞,vjms://121.14.222.75:8500:3502/live/cid=348
+TVBS新聞,vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
-TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
 TVBS歡樂,vjms://121.14.222.75:8500:3502/live/cid=438
+TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
 寰宇新聞,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
 寰宇新聞2,http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
 東森新聞,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
-東森新聞,vjms://23.237.33.155:8500:3502/live/cid=340
 東森新聞,vjms://121.14.222.75:8500:3502/live/cid=340
-東森綜合,vjms://23.237.33.155:8500:3502/live/cid=333
+東森新聞,vjms://23.237.33.155:8500:3502/live/cid=340
 東森綜合,vjms://121.14.222.75:8500:3502/live/cid=333
+東森綜合,vjms://23.237.33.155:8500:3502/live/cid=333
 東森財經新聞,http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
-東森財經新聞,vjms://23.237.33.155:8500:3502/live/cid=456
 東森財經新聞,vjms://121.14.222.75:8500:3502/live/cid=456
+東森財經新聞,vjms://23.237.33.155:8500:3502/live/cid=456
 東森電影,http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
-東森電影,vjms://23.237.33.155:8500:3502/live/cid=338
 東森電影,vjms://121.14.222.75:8500:3502/live/cid=338
+東森電影,vjms://23.237.33.155:8500:3502/live/cid=338
 東森洋片,http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
-東森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
 東森幼幼,vjms://121.14.222.75:8500:3502/live/cid=344
-中天娛樂,vjms://23.237.33.155:8500:3502/live/cid=350
+東森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
 中天娛樂,vjms://121.14.222.75:8500:3502/live/cid=350
-中天綜合,vjms://23.237.33.155:8500:3502/live/cid=341
+中天娛樂,vjms://23.237.33.155:8500:3502/live/cid=350
 中天綜合,vjms://121.14.222.75:8500:3502/live/cid=341
+中天綜合,vjms://23.237.33.155:8500:3502/live/cid=341
 中天新聞,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8
-中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
 中天新聞,vjms://121.14.222.75:8500:3502/live/cid=407
+中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
 非凡新聞,http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
-非凡新聞,vjms://23.237.33.155:8500:3502/live/cid=443
 非凡新聞,vjms://121.14.222.75:8500:3502/live/cid=443
-年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
+非凡新聞,vjms://23.237.33.155:8500:3502/live/cid=443
 年代新聞,vjms://121.14.222.75:8500:3502/live/cid=455
-年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
+年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
 年代MUCH,vjms://121.14.222.75:8500:3502/live/cid=439
-八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
+年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
 八大綜合,vjms://121.14.222.75:8500:3502/live/cid=354
-八大第一,vjms://23.237.33.155:8500:3502/live/cid=441
+八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
 八大第一,vjms://121.14.222.75:8500:3502/live/cid=441
-八大戲劇,vjms://23.237.33.155:8500:3502/live/cid=110
+八大第一,vjms://23.237.33.155:8500:3502/live/cid=441
 八大戲劇,vjms://121.14.222.75:8500:3502/live/cid=110
+八大戲劇,vjms://23.237.33.155:8500:3502/live/cid=110
 靖天電影,http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
 衛視電影,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 龍華電影,http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
@@ -616,27 +616,27 @@ TVBS歡樂,vjms://121.14.222.75:8500:3502/live/cid=438
 龍祥電影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 緯來電影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 緯來體育,http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
-緯來體育,vjms://23.237.33.155:8500:3502/live/cid=202
 緯來體育,vjms://121.14.222.75:8500:3502/live/cid=202
-緯來戲劇,vjms://23.237.33.155:8500:3502/live/cid=137
+緯來體育,vjms://23.237.33.155:8500:3502/live/cid=202
 緯來戲劇,vjms://121.14.222.75:8500:3502/live/cid=137
-緯來日本,vjms://23.237.33.155:8500:3502/live/cid=102
+緯來戲劇,vjms://23.237.33.155:8500:3502/live/cid=137
 緯來日本,vjms://121.14.222.75:8500:3502/live/cid=102
+緯來日本,vjms://23.237.33.155:8500:3502/live/cid=102
 愛爾達影劇,http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
-愛爾達體育,vjms://23.237.33.155:8500:3502/live/cid=266
 愛爾達體育,vjms://121.14.222.75:8500:3502/live/cid=266
+愛爾達體育,vjms://23.237.33.155:8500:3502/live/cid=266
 智林體育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
-國興衛視,vjms://23.237.33.155:8500:3502/live/cid=424
 國興衛視,vjms://121.14.222.75:8500:3502/live/cid=424
+國興衛視,vjms://23.237.33.155:8500:3502/live/cid=424
 華藝影劇,http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
 采昌影劇,http://cloud-play.hhalloy.com/live/b93ac92b703885f3cfe39bad8aa689d1.flv
 霹雳台灣,http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
-TLC旅遊生活,vjms://23.237.33.155:8500:3502/live/cid=103
 TLC旅遊生活,vjms://121.14.222.75:8500:3502/live/cid=103
-迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
+TLC旅遊生活,vjms://23.237.33.155:8500:3502/live/cid=103
 迪士尼卡通,vjms://121.14.222.75:8500:3502/live/cid=361
-CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
+迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422
+CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 
 ﻿潮云-海外
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -648,23 +648,23 @@ Channel[V],http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.f
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 HBO中文,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
 HBO中文,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-HBO中文,vjms://23.237.33.155:8500:3502/live/cid=261
 HBO中文,vjms://121.14.222.75:8500:3502/live/cid=261
+HBO中文,vjms://23.237.33.155:8500:3502/live/cid=261
 HBO原创,http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-HBO原创,vjms://23.237.33.155:8500:3502/live/cid=236
 HBO原创,vjms://121.14.222.75:8500:3502/live/cid=236
+HBO原创,vjms://23.237.33.155:8500:3502/live/cid=236
 HBO强档,http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
 HBO强档,vjms://121.14.222.75:8500:3502/live/cid=238
+HBO强档,vjms://23.237.33.155:8500:3502/live/cid=238
 HBO温馨,http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
-HBO温馨,vjms://23.237.33.155:8500:3502/live/cid=181
 HBO温馨,vjms://121.14.222.75:8500:3502/live/cid=181
-FOX新闻,vjms://23.237.33.155:8500:3502/live/cid=97
+HBO温馨,vjms://23.237.33.155:8500:3502/live/cid=181
 FOX新闻,vjms://121.14.222.75:8500:3502/live/cid=97
+FOX新闻,vjms://23.237.33.155:8500:3502/live/cid=97
 FOX,http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
 FOX电影,http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
-FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
 FOX电影,vjms://121.14.222.75:8500:3502/live/cid=94
+FOX电影,vjms://23.237.33.155:8500:3502/live/cid=94
 FOX家庭电影,http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
 好莱坞电影,http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
 影迷电影台,http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
@@ -675,8 +675,8 @@ WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.
 光影欧洲电影,http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
 福克斯家庭电影,http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
 博斯高球1,http://cloud-play.hhalloy.com/live/4870a14ca0496e434825594643eea173.flv
-博斯高球1,vjms://23.237.33.155:8500:3502/live/cid=265
 博斯高球1,vjms://121.14.222.75:8500:3502/live/cid=265
+博斯高球1,vjms://23.237.33.155:8500:3502/live/cid=265
 博斯高球2,http://cloud-play.hhalloy.com/live/9dd0941038e16fd8207f4c485c2fd34b.flv
 博斯魅力,http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.flv
 博斯无限,http://cloud-play.hhalloy.com/live/8c9a98717ee9e5136636c3bedbb852b8.flv
@@ -689,27 +689,27 @@ Eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830
 FOX体育 HD,http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
 FOX体育2 HD,http://cloud-play.hhalloy.com/live/a726b0d8db38a23435c5c3ba95507d3e.flv
 FOX体育3 HD,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-FOX体育3 HD,vjms://23.237.33.155:8500:3502/live/cid=95
 FOX体育3 HD,vjms://121.14.222.75:8500:3502/live/cid=95
+FOX体育3 HD,vjms://23.237.33.155:8500:3502/live/cid=95
 国家地理野生,http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-国家地理野生,vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理野生,vjms://121.14.222.75:8500:3502/live/cid=263
-国家地理频道,vjms://23.237.33.155:8500:3502/live/cid=115
+国家地理野生,vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理频道,vjms://121.14.222.75:8500:3502/live/cid=115
-探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
+国家地理频道,vjms://23.237.33.155:8500:3502/live/cid=115
 探索频道,vjms://121.14.222.75:8500:3502/live/cid=457
-探索世界,vjms://23.237.33.155:8500:3502/live/cid=440
+探索频道,vjms://23.237.33.155:8500:3502/live/cid=457
 探索世界,vjms://121.14.222.75:8500:3502/live/cid=440
-探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
+探索世界,vjms://23.237.33.155:8500:3502/live/cid=440
 探索科学,vjms://121.14.222.75:8500:3502/live/cid=457
-动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
+探索科学,vjms://23.237.33.155:8500:3502/live/cid=457
 动物星球,vjms://121.14.222.75:8500:3502/live/cid=3
+动物星球,vjms://23.237.33.155:8500:3502/live/cid=3
 美食星球,http://cloud-play.hhalloy.com/live/7f2e2b78b85222886ccb3792c905408e.flv
 法国时尚,http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flv
-法国时尚,vjms://23.237.33.155:8500:3502/live/cid=399
 法国时尚,vjms://121.14.222.75:8500:3502/live/cid=399
-TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
+法国时尚,vjms://23.237.33.155:8500:3502/live/cid=399
 TV5 MONDE,vjms://121.14.222.75:8500:3502/live/cid=396
+TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
