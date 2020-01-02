@@ -683,7 +683,6 @@ WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.
 博斯网球,http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv
 博斯运动1,http://cloud-play.hhalloy.com/live/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
 博斯运动2,http://cloud-play.hhalloy.com/live/c71aa3f9ef9e92531a06863b9a731849.flv
-智林体育,http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.flv
 Eleven体育plue,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
 Eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
 FOX体育 HD,http://cloud-play.hhalloy.com/live/b00b46e382e81efd9902a848c9b89101.flv
