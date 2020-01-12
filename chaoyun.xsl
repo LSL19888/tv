@@ -164,6 +164,7 @@ CCTV-12社会与法,http://stream.guihet.com/tv/116.php?id=034
 CCTV-12社会与法,vjms://23.237.33.155:8500:3502/live/cid=464
 CCTV-12社会与法,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000171.m3u8
 CCTV-12社会与法,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-13新闻,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-13新闻,rtsp://183.58.12.204/PLTV/88888895/224/3221226783/00000100000000060000000000339414_0.smil?icpid=88888888
 CCTV-13新闻,http://125.88.57.21:30001/PLTV/88888956/224/3221227701/1.m3u8
 CCTV-13新闻,http://stream.guihet.com/migu/index.php?id=608807423
