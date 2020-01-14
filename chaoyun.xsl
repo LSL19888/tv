@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-更新港台频道,
+港台频道失效,
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
@@ -32,11 +32,10 @@
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 
 ﻿潮云-香港-常用
+TVB J2,http://fang.fhzyy.com/AppName/StreamName.m3u8
+TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
+TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
-TVB J2,http://58.218.56.88/918867252917/stream__redirect__42714.m3u8
-TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
-TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
-TVB J2,http://fang.hongxin123.com/AppName/StreamName.m3u8
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 TVB J2,vjms://122.155.180.8:8500:5021/live/cid=368
