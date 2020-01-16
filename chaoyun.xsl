@@ -497,6 +497,7 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 深圳东部,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdb
 深圳移动电视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszyd
 深圳众创TV,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszzc
+蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
