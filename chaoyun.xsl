@@ -32,6 +32,7 @@
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 
 ﻿潮云-香港-常用
+TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
 TVB J2,http://fang.fhzyy.com/AppName/StreamName.m3u8
 TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
