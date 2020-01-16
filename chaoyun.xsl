@@ -36,9 +36,9 @@
 
 ﻿潮云-香港-常用
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
+TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
 TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
 TVB J2,http://fang.fhzyy.com/AppName/StreamName.m3u8
-TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
 TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
@@ -455,15 +455,48 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 房产频道,http://nclive.grtn.cn/fcpd/playlist.m3u8
 房产频道,http://nclive.grtn.cn/fcpd/sd/live.m3u8
 岭南戏曲,rtsp://125.88.54.18/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=TGtQK8mpbh/UaBAk/bdbODCNV6QoIhvx2aHRi4dLhLX2UglvyJcldLao2ORHbSsLqbie3toDnzRsqdN7T/b7X7v2Qu93RNtMHw7NXnmSy1W/3drkZ/Dy5Qb4Czw8Ex6EBlKSFKAWQ93IqM8mMlpFAA==:20190731005231,06684043365,116.27.25.143,20190731005231,02000001000000050000000000000385,AD70EEE0C635D2FFACF56D6767E57B92,-1,0,1,,,2,,,,2,END
-深圳体育,http://www.szmgiptv.com:14436/hls/10.m3u8
+广州综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzzh
+广州综合,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f7072e4b01c17db18fbd5
+广州新闻,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzxw
+广州新闻,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f6f73e4b01c17db18fbd3
+广州影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzys
+广州影视,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70dce4b01c17db18fbdb
+广州生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzxh
+广州生活,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70fee4b01c17db18fbdd
+广州法治,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzfz
+广州法治,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f7097e4b01c17db18fbd7
+广州法治,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=046&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广州小儿,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzse
+广州小儿,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f711de4b01c17db18fbdf
+广州小儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=044&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广州小儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=227&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广州竞赛,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzjs
+广州竞赛,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70b7e4b01c17db18fbd9
+广州竞赛,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=000&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广州购物,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzgw
+深圳都市,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszds
 深圳都市,http://www.szmgiptv.com:14436/hls/8.m3u8
+深圳DV生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdv
 深圳DV生活,http://39.135.16.142:6060/PLTV/88888888/224/3221225735/1/index.m3u8?fmt=ts2hls
 深圳DV生活,http://www.szmgiptv.com:14436/hls/9.m3u8
+深圳体育健康,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszty
+深圳体育健康,http://www.szmgiptv.com:14436/hls/10.m3u8
+深圳电视剧,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdsj
 深圳电视剧,http://www.szmgiptv.com:14436/hls/11.m3u8
+深圳少儿,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszse
 深圳少儿,http://www.szmgiptv.com:14436/hls/21.m3u8
+深圳娱乐,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszyl
 深圳娱乐,http://www.szmgiptv.com:14436/hls/22.m3u8
+深圳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszgg
 深圳公共,http://www.szmgiptv.com:14436/hls/23.m3u8
+深圳财经生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszcj
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
+深圳国际,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszgj
+深圳宝安,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszba
+深圳龙岗,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszlg
+深圳东部,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdb
+深圳移动电视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszyd
+深圳众创TV,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszzc
 
 潮云-香港
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -471,6 +504,7 @@ TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
+TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
