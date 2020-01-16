@@ -1,14 +1,17 @@
 潮云-潮汕
 修复部分港台频道,
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
+汕头综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv1
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
 汕头综合,http://player.200877926.top/17/gd/shantou.php?id=gdsttv1
 汕头综合,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv1
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
+汕头生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv2
 汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://player.200877926.top/17/gd/shantou.php?id=gdsttv2
 汕头生活,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv2
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
+汕头影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv3
 汕头影视,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv3
 汕头影视,http://player.200877926.top/17/gd/shantou.php?id=gdsttv3
 汕头影视,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv3
@@ -27,9 +30,9 @@
 
 ﻿潮云-香港-常用
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
+TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
 TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
 TVB J2,http://fang.fhzyy.com/AppName/StreamName.m3u8
-TVB J2,http://117.149.150.4/atv/01kjzcom__redirect__1392.m3u8
 TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
