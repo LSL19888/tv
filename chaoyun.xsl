@@ -600,7 +600,9 @@ TVBS歡樂,vjms://122.155.180.8:8500:5021/live/cid=438
 龍祥電影,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 緯來電影,http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 緯來體育,http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv
+緯來體育,vjms://58.215.133.185:8500:3502/live/cid=202
 緯來體育,vjms://23.237.33.155:8500:3502/live/cid=202
+緯來體育,vjms://23.237.32.179:8500:3502/live/cid=202
 緯來體育,vjms://122.155.180.8:8500:5021/live/cid=202
 緯來戲劇,vjms://23.237.33.155:8500:3502/live/cid=137
 緯來戲劇,vjms://122.155.180.8:8500:5021/live/cid=137
