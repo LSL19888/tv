@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-港台频道失效,
+修复部分港台频道,
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
@@ -162,7 +162,7 @@ CCTV-12社会与法,http://stream.guihet.com/tv/116.php?id=034
 CCTV-12社会与法,vjms://23.237.33.155:8500:3502/live/cid=464
 CCTV-12社会与法,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000171.m3u8
 CCTV-12社会与法,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV-13新闻,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV-13新闻,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
 CCTV-13新闻,rtsp://183.58.12.204/PLTV/88888895/224/3221226783/00000100000000060000000000339414_0.smil?icpid=88888888
 CCTV-13新闻,http://125.88.57.21:30001/PLTV/88888956/224/3221227701/1.m3u8
 CCTV-13新闻,http://stream.guihet.com/migu/index.php?id=608807423
@@ -462,17 +462,17 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 
 潮云-香港
-TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
-TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
+TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
-TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
-TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
+TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
@@ -481,8 +481,8 @@ TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_id
 星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 陽光衛視,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有線電視18台,vjms://58.215.133.185:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
@@ -596,7 +596,6 @@ CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 奥多少儿频道,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-HBO中文,http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 HBO中文,vjms://23.237.33.155:8500:3502/live/cid=261
 HBO中文,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO原创,vjms://58.215.133.185:8500:3502/live/cid=236
@@ -642,10 +641,10 @@ TV5 MONDE,vjms://23.237.33.155:8500:3502/live/cid=396
 新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 
 潮云-IPTV
-CCTV-风云剧场,http://stream.guihet.com/migu/index.php?id=623338051
 CCTV-风云剧场,rtmp://58.200.131.2:1935/livetv/fyjctv
-CCTV-风云音乐,http://stream.guihet.com/migu/index.php?id=623338072
+CCTV-风云剧场,http://stream.guihet.com/migu/index.php?id=623338051
 CCTV-风云音乐,rtmp://58.200.131.2:1935/livetv/fyyytv
+CCTV-风云音乐,http://stream.guihet.com/migu/index.php?id=623338072
 CCTV-风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
 CCTV-风云足球,vjms://23.237.33.155:8500:3502/live/cid=88
 CCTV-求索生活,vjms://23.237.33.155:8500:3502/live/cid=471
@@ -670,16 +669,16 @@ CGTN-西班牙语,http://stream.guihet.com/migu/index.php?id=609006450
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-英语,rtmp://58.200.131.2:1935/livetv/cctv16
 CNC新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
+CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
 CETV-1,http://stream.guihet.com/migu/index.php?id=649531734
 CETV-1,http://stream.guihet.com/migu/index.php?id=649531772
-CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
 CETV-1,http://39.135.36.146:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&amp;Contentid=1000000002000027253&amp;livemode=1&amp;stbId=005203FF000360100001001A34C0CD33&amp;userToken=4ef1f6fdd53988bdf19472c73151206f21vv&amp;usergroup=g21077200000&amp;version=1.0&amp;owaccmark=1000000002000027253&amp;owchid=ystenlive&amp;owsid=1106497909461616097&amp;AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhOJwKbFFUvff7rym6ZRGjqhoGIqpkmAjf48GP9I33YEiXzrp2cuKEymd6COk8Pa3q
-CETV-2,http://stream.guihet.com/migu/index.php?id=649532169
 CETV-2,rtmp://58.200.131.2:1935/livetv/cetv2
-CETV-3,http://stream.guihet.com/migu/index.php?id=649531756
+CETV-2,http://stream.guihet.com/migu/index.php?id=649532169
 CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
-CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
+CETV-3,http://stream.guihet.com/migu/index.php?id=649531756
 CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
+CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 
 潮云-CIBN轮播
 电影导视,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
@@ -706,9 +705,9 @@ CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
 四大天王系列,http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 金庸系列电影,http://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
 女神系列电影,http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-五福星电影,http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+五福星电影,http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-0-1_1200.m3u8
 古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
-赌片电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+赌片电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
 超级英雄,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 怪物科幻,http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
