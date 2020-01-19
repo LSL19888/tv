@@ -78,7 +78,7 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 
 ﻿潮云-CCTV
-CCTV-1综合,rtsp://183.59.241.162:554/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil?icpid=88888888
+CCTV-1综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil?icpid=88888888
 CCTV-1综合,http://125.88.55.18:30001/PLTV/88888956/224/3221227692/1.m3u8
 CCTV-1综合,http://stream.guihet.com/migu/index.php?id=608807420
 CCTV-1综合,http://stream.guihet.com/migu/index.php?id=608807427
@@ -480,10 +480,10 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 广州竞赛,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f70b7e4b01c17db18fbd9
 广州竞赛,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=000&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广州购物,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdgzgw
-深圳都市,rtsp://183.59.241.162:554/PLTV/88888895/224/3221228036/10000100000000060000000007005128_0.smil?icpid=88888888
+深圳都市,rtsp://183.58.12.204/PLTV/88888895/224/3221228036/10000100000000060000000007005128_0.smil?icpid=88888888
 深圳都市,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszds
 深圳都市,http://www.szmgiptv.com:14436/hls/8.m3u8
-深圳DV生活,rtsp://183.59.241.162:554/PLTV/88888895/224/3221226774/00000100000000060000000000338632_0.smil?icpid=88888888
+深圳DV生活,rtsp://183.58.12.204/PLTV/88888895/224/3221226774/00000100000000060000000000338632_0.smil?icpid=88888888
 深圳DV生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdv
 深圳DV生活,http://39.135.16.142:6060/PLTV/88888888/224/3221225735/1/index.m3u8?fmt=ts2hls
 深圳DV生活,http://www.szmgiptv.com:14436/hls/9.m3u8
@@ -491,21 +491,21 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 深圳体育健康,http://www.szmgiptv.com:14436/hls/10.m3u8
 深圳电视剧,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdsj
 深圳电视剧,http://www.szmgiptv.com:14436/hls/11.m3u8
-深圳少儿,rtsp://183.59.241.162:554/PLTV/88888895/224/3221226806/00000100000000060000000000338630_0.smil?icpid=88888888
+深圳少儿,rtsp://183.58.12.204/PLTV/88888895/224/3221226806/00000100000000060000000000338630_0.smil?icpid=88888888
 深圳少儿,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszse
 深圳少儿,http://www.szmgiptv.com:14436/hls/21.m3u8
-深圳娱乐,rtsp://183.59.241.162:554/PLTV/88888895/224/3221226803/00000100000000060000000000338618_0.smil?icpid=88888888
+深圳娱乐,rtsp://183.58.12.204/PLTV/88888895/224/3221226803/00000100000000060000000000338618_0.smil?icpid=88888888
 深圳娱乐,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszyl
 深圳娱乐,http://www.szmgiptv.com:14436/hls/22.m3u8
 深圳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszgg
 深圳公共,http://www.szmgiptv.com:14436/hls/23.m3u8
-深圳财经生活,rtsp://183.59.241.162:554/PLTV/88888895/224/3221226771/00000100000000060000000000338617_0.smil?icpid=88888888
+深圳财经生活,rtsp://183.58.12.204/PLTV/88888895/224/3221226771/00000100000000060000000000338617_0.smil?icpid=88888888
 深圳财经生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszcj
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 深圳国际,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszgj
 深圳宝安,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszba
 深圳龙岗,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszlg
-深圳东部,rtsp://183.59.241.162:554/PLTV/88888895/224/3221228158/10000100000000060000000007893235_0.smil?icpid=88888888
+深圳东部,rtsp://183.58.12.204/PLTV/88888895/224/3221228158/10000100000000060000000007893235_0.smil?icpid=88888888
 深圳东部,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszdb
 深圳移动电视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszyd
 深圳众创TV,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszzc
