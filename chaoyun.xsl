@@ -1,6 +1,7 @@
 ﻿潮云-潮汕
 修复部分港台频道,
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
+汕头综合,http://221.179.69.238:880/dx041.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv1
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
@@ -9,6 +10,7 @@
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
 汕头综合,http://27.36.62.162:9090/live/shantouyitaogaoqing_4500.m3u8
 汕头生活,rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
+汕头生活,http://221.179.69.238:880/dx2.m3u8
 汕头生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv2
 汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv2
@@ -16,14 +18,17 @@
 汕头生活,http://www.szmgiptv.com:14436/hls/18.m3u8
 汕头生活,http://27.36.62.162:9090/live/shantouertaogaoqing_4500.m3u8
 汕头影视,rtsp://183.58.12.204/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?icpid=88888888
+汕头影视,http://221.179.69.238:880/dx3.m3u8
 汕头影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv3
 汕头影视,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv3
 汕头影视,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv3
 汕头影视,http://player.200877926.top/17/gd/shantou.php?id=gdsttv3
 汕头影视,http://27.36.62.162:9090/live/shantousantaogaoqing_4500.m3u8
+潮州综合,http://221.179.69.238:880/dx4.m3u8
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
 潮州综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv1
+潮州公共,http://221.179.69.238:880/dx5.m3u8
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
 潮州公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv2
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
@@ -34,9 +39,11 @@
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/chaoanyingshi/playlist.m3u8
 潮安影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdczca2
+揭阳综合,http://221.179.69.238:880/dx7.m3u8
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
 揭阳综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv1
+揭阳公共,http://221.179.69.238:880/dx6.m3u8
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 揭阳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv2
 
