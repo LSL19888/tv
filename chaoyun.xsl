@@ -78,9 +78,7 @@ TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 
 ﻿潮云-CCTV
-CCTV-1综合,http://125.88.57.21:30001/PLTV/88888905/224/3221227518/1.m3u8
 CCTV-1综合,http://125.88.55.18:30001/PLTV/88888956/224/3221227692/1.m3u8
-CCTV-1综合,http://125.88.82.39:30001/PLTV/88888905/224/3221227518/1.m3u8
 CCTV-1综合,http://stream.guihet.com/migu/index.php?id=608807420
 CCTV-1综合,http://stream.guihet.com/migu/index.php?id=608807427
 CCTV-1综合,http://stream.guihet.com/tv/116.php?id=029
