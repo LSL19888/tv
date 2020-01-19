@@ -1,7 +1,7 @@
 潮云-潮汕
-修复部分港台频道,
+修复汕头频道,
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
-汕头综合,http://221.179.69.238:880/dx4.m3u8
+汕头综合,http://221.179.69.238:880/dx1.m3u8
 汕头综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv1
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
 汕头综合,http://player.200877926.top/17/gd/shantou.php?id=gdsttv1
@@ -20,8 +20,10 @@
 汕头影视,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv3
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
+潮州综合,http://221.179.69.238:880/dx4.m3u8
 潮州综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv1
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
+潮州公共,http://221.179.69.238:880/dx5.m3u8
 潮州公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv2
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
@@ -33,8 +35,10 @@
 潮安影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdczca2
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
+揭阳综合,http://221.179.69.238:880/dx6.m3u8
 揭阳综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv1
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
+揭阳公共,http://221.179.69.238:880/dx7.m3u8
 揭阳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv2
 
 ﻿潮云-香港-常用
