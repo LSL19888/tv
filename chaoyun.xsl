@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-修复部分港台频道,
+港台频道加载慢,
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://221.179.69.238:880/dx041.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
@@ -57,28 +57,26 @@ TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 鳳凰中文,http://liveali.ifeng.com/live/FHZW.flv
-鳳凰中文,vjms://58.215.133.185:8500:3502/live/cid=400
-鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
+鳳凰中文,http://stream.guihet.com/tv/116.php?id=190
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
+鳳凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
-鳳凰中文,http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
-鳳凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-鳳凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+鳳凰中文,vjms://58.215.133.185:8500:3502/live/cid=400
+鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
-鳳凰資訊,vjms://58.215.133.185:8500:3502/live/cid=401
-鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
 鳳凰資訊,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
 鳳凰資訊,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
-鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-鳳凰資訊,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
+鳳凰資訊,vjms://58.215.133.185:8500:3502/live/cid=401
+鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
 广东体育,rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?icpid=88888888
+广东体育,http://live.grtn.cn/drm.php?url=http://stream1.grtn.cn/typd/sd/live.m3u8
 广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8
 广东体育,http://192.154.98.130:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
-广东体育,http://stream.guihet.com/migu/index.php?id=624303497
 广东体育,vjms://58.215.133.185:8500:3502/live/cid=336
 广东体育,vjms://23.237.33.155:8500:3502/live/cid=336
 广东体育,http://nclive.grtn.cn/typd/playlist.m3u8
