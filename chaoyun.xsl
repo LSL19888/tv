@@ -171,8 +171,8 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 湖南卫视,http://125.88.104.45:30001/rrsm.iptv.gd.cn/PLTV/88888905/224/3221227483/1.m3u8
 湖南卫视,http://125.88.82.39:30001/PLTV/88888905/224/3221227483/1.m3u8
 湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
-湖南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 湖南卫视,http://stream.guihet.com/tv/116.php?id=006
+湖南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 浙江卫视,http://125.88.57.21:30001/PLTV/88888905/224/3221227511/1.m3u8
 浙江卫视,http://125.88.55.18:30001/PLTV/88888956/224/3221227987/1.m3u8
 浙江卫视,http://125.88.104.45:30001/PLTV/88888956/224/3221227987/1.m3u8
@@ -310,11 +310,16 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 安多卫视,http://111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8
 卡酷少儿,http://125.88.57.21:30001/PLTV/88888956/224/3221227734/1.m3u8
+卡酷少儿,http://stream.guihet.com/tv/116.php?id=108
 卡酷少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=108&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+优漫卡通,http://stream.guihet.com/tv/116.php?id=146
 优漫卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=146&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+金鹰卡通,http://stream.guihet.com/tv/116.php?id=244
 金鹰卡通,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=244&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 北京纪实,http://125.88.57.21:30001/PLTV/88888905/224/3221227555/1.m3u8
+北京纪实,http://stream.guihet.com/tv/116.php?id=158
 北京纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=158&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+金鹰纪实,http://stream.guihet.com/tv/116.php?id=176
 金鹰纪实,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=176&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 ﻿潮云-广东
@@ -389,7 +394,6 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 深圳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszgg
 深圳公共,http://www.szmgiptv.com:14436/hls/23.m3u8
 深圳财经生活,rtsp://183.58.12.204/PLTV/88888895/224/3221226771/00000100000000060000000000338617_0.smil?icpid=88888888
-深圳财经生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszcj
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 深圳国际,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszgj
 深圳宝安,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdszba
