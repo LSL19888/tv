@@ -24,12 +24,12 @@
 汕头影视,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv3
 汕头影视,http://player.200877926.top/17/gd/shantou.php?id=gdsttv3
 汕头影视,http://27.36.62.162:9090/live/shantousantaogaoqing_4500.m3u8
-潮州综合,http://221.179.69.238:880/dx4.m3u8
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
+潮州综合,http://221.179.69.238:880/dx4.m3u8
 潮州综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv1
-潮州公共,http://221.179.69.238:880/dx5.m3u8
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
+潮州公共,http://221.179.69.238:880/dx5.m3u8
 潮州公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv2
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
@@ -39,12 +39,12 @@
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/chaoanyingshi/playlist.m3u8
 潮安影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdczca2
-揭阳综合,http://221.179.69.238:880/dx7.m3u8
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
+揭阳综合,http://221.179.69.238:880/dx7.m3u8
 揭阳综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv1
-揭阳公共,http://221.179.69.238:880/dx6.m3u8
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
+揭阳公共,http://221.179.69.238:880/dx6.m3u8
 揭阳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv2
 
 ﻿潮云-香港-常用
@@ -687,12 +687,11 @@ CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 倚天屠龙记,http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
 天龙八部,http://txdirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8
 龙门镖局,http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-神探狄仁杰,http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
 少年包青天,http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
 我和僵尸有个约会,http://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8
 亮剑,http://js.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+少帅,http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
 我是特种兵,http://tx.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1_1200.m3u8
-重案六组,http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
 特警力量,http://aldirect.hls.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1_1200.m3u8
 卧底警匪,http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
 勇敢的心,http://aldirect.hls.huya.com/huyalive/94525224-2604793662-11187503591118077952-3048991612-10057-A-0-1_1200.m3u8
@@ -707,5 +706,6 @@ CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 花千骨,http://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
 宦娘,http://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
 老九门,http://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+重案六组,http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
 荒野求生,http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 舌尖上的中国,http://tx.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
