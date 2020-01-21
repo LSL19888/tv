@@ -141,6 +141,7 @@ CCTV-10科教,http://125.88.57.21:30001/PLTV/88888956/224/3221227698/1.m3u8
 CCTV-10科教,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000170.m3u8
 CCTV-10科教,http://stream.guihet.com/tv/116.php?id=004
 CCTV-10科教,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=004&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-11戏曲,rtsp://125.88.53.18/PLTV/88888905/224/3221229858/10000100000000060000000010595398_0.smil?icpid=88888888
 CCTV-11戏曲,rtsp://183.58.12.204/PLTV/88888895/224/3221226815/00000100000000060000000000339412_0.smil?icpid=88888888
 CCTV-11戏曲,http://125.88.57.21:30001/PLTV/88888956/224/3221227672/1.m3u8
 CCTV-11戏曲,http://stream.guihet.com/tv/116.php?id=053
@@ -158,6 +159,7 @@ CCTV-14少儿,http://125.88.57.21:30001/PLTV/88888956/224/3221227675/1.m3u8
 CCTV-14少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000172.m3u8
 CCTV-14少儿,http://stream.guihet.com/tv/116.php?id=035
 CCTV-14少儿,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+CCTV-15音乐,rtsp://125.88.53.18/PLTV/88888905/224/3221229902/10000100000000060000000010595397_0.smil?icpid=88888888
 CCTV-15音乐,rtsp://183.58.12.204/PLTV/88888895/224/3221226736/00000100000000060000000000339416_0.smil?icpid=88888888
 CCTV-15音乐,http://125.88.57.21:30001/PLTV/88888956/224/3221227727/1.m3u8
 CCTV-15音乐,http://stream.guihet.com/tv/116.php?id=054
