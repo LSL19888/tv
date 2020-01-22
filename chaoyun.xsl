@@ -11,6 +11,7 @@
 汕头综合,http://27.36.62.162:9090/live/shantouyitaogaoqing_4500.m3u8
 汕头生活,rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
 汕头生活,http://221.179.69.238:880/dx2.m3u8
+汕头生活,https://sttv2-api.cutv.com/api/getlivedetail.php?gid=1169875
 汕头生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv2
 汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv2
