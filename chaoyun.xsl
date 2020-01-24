@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-港台频道加载慢,
+祝各位鼠年甲想,
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://221.179.69.238:880/dx041.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
@@ -49,7 +49,7 @@
 揭阳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv2
 
 ﻿潮云-香港-常用
-TVB J2,http://pull.gzbqd.com/live/aa1a272c3a17aaf8720144ab/playlist.m3u8
+TVB J2,http://pull.gzbqd.com/live/a17aaf872014aa1a272c34ab/playlist.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
@@ -408,12 +408,12 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
-TVB翡翠台,http://pull.leshantangjt.com/live/d8cdtgdcba0b9e8b7993c881b/playlist.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/gdcba0b9e8b7993c8d8cdt81b/playlist.m3u8
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB無綫新聞,http://pull.leshantangjt.com/live/bc3ab110216f2a1a715937c22/playlist.m3u8
+TVB無綫新聞,http://pull.leshantangjt.com/live/b10216f2a1a71593c3ab17c22/playlist.m3u8
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
