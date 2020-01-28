@@ -3,7 +3,6 @@
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://221.179.69.238:880/dx041.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
-汕头综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv1
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
 汕头综合,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv1
 汕头综合,http://player.200877926.top/17/gd/shantou.php?id=gdsttv1
@@ -12,7 +11,6 @@
 汕头生活,rtsp://183.58.12.204/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
 汕头生活,http://221.179.69.238:880/dx2.m3u8
 汕头生活,https://sttv2-api.cutv.com/api/getlivedetail.php?gid=1169875
-汕头生活,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsttv2
 汕头生活,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv2
 汕头生活,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv2
 汕头生活,http://player.200877926.top/17/gd/shantou.php?id=gdsttv2
@@ -28,28 +26,22 @@
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
 潮州综合,http://221.179.69.238:880/dx4.m3u8
-潮州综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv1
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8
 潮州公共,http://221.179.69.238:880/dx5.m3u8
-潮州公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdcztv2
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/chaoanzonghe/playlist.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
-潮安综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdczca1
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/chaoanyingshi/playlist.m3u8
-潮安影视,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdczca2
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
 揭阳综合,http://221.179.69.238:880/dx7.m3u8
-揭阳综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv1
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 揭阳公共,http://221.179.69.238:880/dx6.m3u8
-揭阳公共,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdjytv2
 
 ﻿潮云-香港-常用
-TVB J2,http://pull.gzbqd.com/live/a1aa1a272c34ab7aaf872014/playlist.m3u8
+TVB J2,http://pull.gzbqd.com/live/a872014aa1a272c314ab7aaf/playlist.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
@@ -408,12 +400,12 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
-TVB翡翠台,http://pull.leshantangjt.com/live/gd8b7993c8d8ccba0b9edt81b/playlist.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/80b9edt81bgd8b79d8ccba93c/playlist.m3u8
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB無綫新聞,http://pull.leshantangjt.com/live/a1a71593c3ab17c22b10216f2/playlist.m3u8
+TVB無綫新聞,http://pull.leshantangjt.com/live/596f23c3ab1a7c22b10211a71/playlist.m3u8
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
