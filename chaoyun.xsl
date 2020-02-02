@@ -23,7 +23,6 @@
 汕头公共,http://player.200877926.top/17/gd/shantoum3u8.php?id=gdsttv3
 汕头公共,http://player.200877926.top/17/gd/shantou.php?id=gdsttv3
 汕头公共,http://27.36.62.162:9090/live/shantousantaogaoqing_4500.m3u8
-潮南综合,http://chaonan-tv-live1.itouchtv.cn/touchtv/chaonan-1.m3u8?token=11e403363aa6ce882e0d722231d434cb
 潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8
 潮州综合,http://221.179.69.238:880/dx4.m3u8
