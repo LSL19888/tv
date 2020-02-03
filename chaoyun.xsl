@@ -41,7 +41,7 @@
 揭阳公共,http://221.179.69.238:880/dx6.m3u8
 
 ﻿潮云-香港-常用
-TVB J2,http://pull.gzbqd.com/live/ba2014314aa1a2772afa87ca/playlist.m3u8
+TVB J2,http://pull.gzbqd.com/live/a27ba2072afa87ca14aa1314/playlist.m3u8
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
@@ -351,7 +351,6 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 岭南戏曲,rtsp://125.88.54.18/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=TGtQK8mpbh/UaBAk/bdbODCNV6QoIhvx2aHRi4dLhLX2UglvyJcldLao2ORHbSsLqbie3toDnzRsqdN7T/b7X7v2Qu93RNtMHw7NXnmSy1W/3drkZ/Dy5Qb4Czw8Ex6EBlKSFKAWQ93IqM8mMlpFAA==:20190731005231,06684043365,116.27.25.143,20190731005231,02000001000000050000000000000385,AD70EEE0C635D2FFACF56D6767E57B92,-1,0,1,,,2,,,,2,END
 广州新闻,http://stream.guihet.com/tv/116.php?id=011
 广州法治,http://stream.guihet.com/tv/116.php?id=046
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=046&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广州小儿,http://stream.guihet.com/tv/116.php?id=044
 广州小儿,http://stream.guihet.com/tv/116.php?id=227
 广州竞赛,http://stream.guihet.com/tv/116.php?id=000
@@ -378,12 +377,12 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=046&FvSeid=1&Fsv_ctype=LIVES&Fs
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
-TVB翡翠台,http://pull.leshantangjt.com/live/8b71bc9edt80bg389d8ccba9d/playlist.m3u8
+TVB翡翠台,http://pull.leshantangjt.com/live/g389d8ccba9db71bc80b9edt8/playlist.m3u8
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB無綫新聞,http://pull.leshantangjt.com/live/2b1102a7c22b11a713c3a596f/playlist.m3u8
+TVB無綫新聞,http://pull.leshantangjt.com/live/2b96f2b1102a11a713c3a57c2/playlist.m3u8
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
@@ -393,7 +392,7 @@ TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ct
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
-ViuTV,http://pull.leshantangjt.com/live/8c14aa3dd495a61a7abcc/playlist.m3u8
+ViuTV,http://pull.leshantangjt.com/live/8d7abcc14aa3495a61adc/playlist.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
