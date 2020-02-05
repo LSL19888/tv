@@ -41,7 +41,8 @@
 揭阳公共,http://221.179.69.238:880/dx6.m3u8
 
 ﻿潮云-香港-常用
-TVB J2,http://61.147.122.14/flv.live.xylive.tv/live/00j2.flv
+TVB J2,http://pull.gzbqd.com/live/bafa87ca142072aaa13a2714/playlist.m3u8
+TVB J2,http://61.147.122.15/flv.live.xylive.tv/live/00fcj2.flv
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
@@ -383,6 +384,7 @@ TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_c
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
+TVB無綫新聞,http://pull.leshantangjt.com/live/22a11a713c3a57cb96f2b1102/playlist.m3u8
 TVB無綫新聞,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
