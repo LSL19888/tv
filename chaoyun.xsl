@@ -325,7 +325,7 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 广东经济科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 广东经济科教,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=198&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东经济科教,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东综艺4K,rtsp://125.88.53.18/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?icpid=88888888
+广东综艺4K,rtsp://125.88.53.18/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil?icpid=88888888
 广东综艺4K,http://nclive.grtn.cn/4K/playlist.m3u8
 广东综艺4K,http://nclive.grtn.cn/4K/sd/live.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/playlist.m3u8
