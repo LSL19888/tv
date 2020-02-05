@@ -327,7 +327,7 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 广东经济科教,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东综艺4K,http://nclive.grtn.cn/4K/playlist.m3u8
 广东综艺4K,http://nclive.grtn.cn/4K/sd/live.m3u8
-广东综艺4K,rtsp://125.88.53.18/88888905/224/3221227270/10000100000000060000000001141346_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EUwOl-Gl8Z1MFFJlY1q_RCg%7E4TAfekxVExOm7eqCx89StHOR5oUpp3FdrZr5j8pDmWFODG3auJsUqwhOEQdGFEpxbghZp1N1kg0BK5EaJCyX9QWW7hWaQuSoblDmREG1Rw8~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20200121001144%2C10500005819822%2C14.157.27.250%2C20200121001144%2C02000000000000050000000000000152%2C1000100094179620200121001144%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND
+广东综艺4K,rtsp://183.59.146.180:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?icpid=1111116
 广东影视,http://nclive.grtn.cn/tvs4/playlist.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广东影视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=240&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
