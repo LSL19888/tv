@@ -41,7 +41,7 @@
 揭阳公共,http://221.179.69.238:880/dx6.m3u8
 
 ﻿潮云-香港-常用
-TVB J2,http://61.147.122.15/flv.live.xylive.tv/live/00j2.flv
+TVB J2,http://61.147.122.14/flv.live.xylive.tv/live/00j2.flv
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
