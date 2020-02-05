@@ -378,12 +378,12 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
-TVB翡翠台,http://pull.leshantangjt.com/live/g389d8ccba9db71bc80b9edt8/playlist.m3u8
+TVB翡翠台,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB無綫新聞,http://pull.leshantangjt.com/live/2b96f2b1102a11a713c3a57c2/playlist.m3u8
+TVB無綫新聞,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
@@ -393,7 +393,9 @@ TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ct
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
-ViuTV,http://pull.leshantangjt.com/live/8d7abcc14aa3495a61adc/playlist.m3u8
+TVB星河台,http://61.147.122.15/flv.live.xylive.tv/live/0040.flv[
+鳳凰香港,http://liveali.ifeng.com/live/FHHK.flv
+鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
@@ -404,6 +406,8 @@ ViuTV,http://pull.leshantangjt.com/live/8d7abcc14aa3495a61adc/playlist.m3u8
 陽光衛視,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有線新聞台,http://61.147.122.14/flv.live.xylive.tv/live/youxianxinwen.flv
+有線電視18台,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 有線電視18台,vjms://58.215.133.185:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
 RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
@@ -442,7 +446,6 @@ HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
 華視,vjms://58.215.133.185:8500:3502/live/cid=451
 華視,vjms://23.237.33.155:8500:3502/live/cid=451
-中視,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中視,vjms://58.215.133.185:8500:3502/live/cid=452
 中視,vjms://23.237.33.155:8500:3502/live/cid=452
 台視,vjms://58.215.133.185:8500:3502/live/cid=453
@@ -466,7 +469,6 @@ TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/2.m3u8
 TVBS歡樂,vjms://58.215.133.185:8500:3502/live/cid=438
 TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
-東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森新聞,vjms://58.215.133.185:8500:3502/live/cid=340
 東森新聞,vjms://23.237.33.155:8500:3502/live/cid=340
 東森綜合,vjms://58.215.133.185:8500:3502/live/cid=333
@@ -479,19 +481,18 @@ TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
 東森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
 中天娛樂,vjms://58.215.133.185:8500:3502/live/cid=350
 中天娛樂,vjms://23.237.33.155:8500:3502/live/cid=350
-中天綜合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天綜合,vjms://58.215.133.185:8500:3502/live/cid=341
 中天綜合,vjms://23.237.33.155:8500:3502/live/cid=341
+中天新聞,http://61.147.122.14/flv.live.xylive.tv/live/00ztxw.flv
 中天新聞,vjms://58.215.133.185:8500:3502/live/cid=407
 中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
 非凡新聞,vjms://58.215.133.185:8500:3502/live/cid=443
 非凡新聞,vjms://23.237.33.155:8500:3502/live/cid=443
-年代新聞,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+年代新聞,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
 年代新聞,vjms://58.215.133.185:8500:3502/live/cid=455
 年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
-八大綜合,http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大綜合,vjms://58.215.133.185:8500:3502/live/cid=354
 八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
 八大第一,vjms://58.215.133.185:8500:3502/live/cid=441
