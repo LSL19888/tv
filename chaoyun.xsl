@@ -378,11 +378,13 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
+TVB翡翠台,http://pull.leshantangjt.com/live/93c36f2b11a5021a7122a17cb/playlist.m3u8
 TVB翡翠台,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
+TVB無綫新聞,http://pull.leshantangjt.com/live/c1bc80b9dtg38cb9ed88a9db7/playlist.m3u8
 TVB無綫新聞,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
