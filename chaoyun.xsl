@@ -41,7 +41,7 @@
 揭阳公共,http://221.179.69.238:880/dx6.m3u8
 
 ﻿潮云-香港-常用
-TVB J2,http://pull.leshantangjt.com/live/a3a27841c07ba2a7aa142a1f/playlist.m3u8
+TVB J2,http://103.56.112.40/igt.php?id=12
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
@@ -378,21 +378,24 @@ CGTN,rtsp://183.58.12.204/PLTV/88888895/224/3221226786/0000010000000006000000000
 蛇口综合,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/cutv1.m3u8?id=gdsktv1
 
 潮云-香港
-TVB翡翠台,http://pull.leshantangjt.com/live/c0b91bcg39eda9db78888dtcb/playlist.m3u8
+TVB翡翠台,http://103.56.112.40/igt.php?id=1
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB無綫新聞,http://pull.leshantangjt.com/live/51f2b11a01a7122a72cb93c36/playlist.m3u8
+TVB無綫新聞,http://103.56.112.40/igt.php?id=9
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
+TVB無綫財經資訊,http://103.56.112.40/igt.php?id=10
 TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
+ViuTv,http://103.56.112.40/igt.php?id=8
+有綫新聞台,http://103.56.112.40/igt.php?id=31
 鳳凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
