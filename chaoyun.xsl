@@ -34,12 +34,12 @@
 潮安综合,http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/chaoanyingshi/playlist.m3u8
+揭阳综合,rtsp://183.59.207.245/PLTV/88888905/224/3221227797/10000100000000060000000004941375_0.smil?icpid=88888888
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
-揭阳综合,http://221.179.69.238:880/dx7.m3u8
+揭阳公共,rtsp://183.59.207.245/PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?icpid=88888888
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
-揭阳公共,http://221.179.69.238:880/dx6.m3u8
-普宁综合,rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
+揭普宁综合,rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
 
 ﻿潮云-香港-常用
 TVB J2,http://103.56.112.40/igt.php?id=12
