@@ -432,14 +432,18 @@ HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 
 ﻿潮云-台湾
+民視,http://lss.line-scdn.net/cc_tw/p/live/h6mhUZzm7aEMHQXZTPVR1dG55M3N5HykQak4ldyMsNyYoTytDYUIiISUpY3R5T31EOUoudiQsMXJ-WS9HYEN1cHF7KXJ5Ay4XYFUmJngzN3B4Fy4VaEMm/720/chunklist.m3u8
 民視,vjms://58.215.133.185:8500:3502/live/cid=450
 民視,vjms://23.237.33.155:8500:3502/live/cid=450
+民視新聞,http://lss.line-scdn.net/cc_tw/p/live/hRFPRCGkVDGg_RhJ4BVMRX1YjBFtFSE04UUlBChwrUw0QSxk_U00XDh0oAw1FHxg_Bk1KXRooUF5JXktsWERDCB0sTVlBBEo8WFJCDUA0UFhBEEo-UERC/720/chunklist.m3u8
 民視新聞,vjms://58.215.133.185:8500:3502/live/cid=454
 民視新聞,vjms://23.237.33.155:8500:3502/live/cid=454
 華視,vjms://58.215.133.185:8500:3502/live/cid=451
 華視,vjms://23.237.33.155:8500:3502/live/cid=451
+華視資訊,http://lss.line-scdn.net/cc_tw/p/live/hH7hH7yHkFhkEXAgJPUkLLm4zSX0vBgJPPVNbLXYxSXwoCAdLaVQLeXU0SH8sAlNKa1dQK3EzTC95RFEdYF4LeXU3Vyh5HlBNYEhYe3EuTypzAVFPYFc/720/chunklist.m3u8
 中視,vjms://58.215.133.185:8500:3502/live/cid=452
 中視,vjms://23.237.33.155:8500:3502/live/cid=452
+中視新聞,http://lss.line-scdn.net/cc_tw/p/live/hKyXWxmnMFVc1QwtHDVYIYF4mTmZMGwRTDExYNRQuSjIYFwQFWRpdMRUuQmRKHVZTXUhTYhQrT2BBW1JTUEFaNxIqVGZJAVMDUFdbMkgxSG1IH1IJWQ/720/chunklist.m3u8
 台視,vjms://58.215.133.185:8500:3502/live/cid=453
 台視,vjms://23.237.33.155:8500:3502/live/cid=453
 公視,vjms://58.215.133.185:8500:3502/live/cid=436
@@ -475,6 +479,7 @@ TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
 中天娛樂,vjms://23.237.33.155:8500:3502/live/cid=350
 中天綜合,vjms://58.215.133.185:8500:3502/live/cid=341
 中天綜合,vjms://23.237.33.155:8500:3502/live/cid=341
+中天新聞,http://lss.line-scdn.net/cc_tw/p/live/homcAOEHWMUMOVS9TNkAsdGVvO3EmXCUQYVp8dHI4biYjWCQUYA53LClqZyZ0XXdAZV53di8_aXdzTXZHa1d3cH07cHJyF3cXa0F_JnMnanlzCXYdYg/720/chunklist.m3u8
 中天新聞,vjms://58.215.133.185:8500:3502/live/cid=407
 中天新聞,vjms://23.237.33.155:8500:3502/live/cid=407
 非凡新聞,vjms://58.215.133.185:8500:3502/live/cid=443
@@ -483,6 +488,7 @@ TVBS歡樂,vjms://23.237.33.155:8500:3502/live/cid=438
 年代新聞,vjms://23.237.33.155:8500:3502/live/cid=455
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439
 年代MUCH,vjms://23.237.33.155:8500:3502/live/cid=439
+八大綜合,http://lss.line-scdn.net/cc_tw/p/live/hjanD-SvyNE8BUCpfO0UpeGhpYyt9DXUZbV95eyQ9ayouXndPZ1t-eyU9Pit6CCIQbltyeiQ0bH58SHNLZlIpfyNqdX5_EnIbZkR6Kn4ia3x-BnIZblJ6/720/chunklist.m3u8
 八大綜合,vjms://58.215.133.185:8500:3502/live/cid=354
 八大綜合,vjms://23.237.33.155:8500:3502/live/cid=354
 八大第一,vjms://58.215.133.185:8500:3502/live/cid=441
@@ -505,8 +511,10 @@ TLC旅遊生活,vjms://23.237.33.155:8500:3502/live/cid=103
 迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
 CN卡通,vjms://58.215.133.185:8500:3502/live/cid=422
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
-
-﻿潮云-海外
+愛放,http://lss.line-scdn.net/cc_tw/p/live/hhLnKVZcGNmICXyhyO0orVWgwOgF8VXJlalB7ViEyaQcuUXViZwN4A3M2a1F8ASIxaVRwVyQ6b1t9R3FmZl0qByQ3d1N_HXA2Zkt4AHctb1F1AnE0ZlQ/720/chunklist.m3u8
+WB TV,http://lss.line-scdn.net/cc_tw/p/live/h9JREfGmdZ2Q_UXl0B0R6U1Q6bFAQBHUzVl4qUE48OAESXHIzUVN8V0s7a1FBWSI2BFohURg-PVxCSSBgWlN6AU1pJlVDEyEwWkUpAUIjPF5CDSA6Uw/720/chunklist.m3u8
+﻿
+潮云-海外
 新加坡8频道,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡-亚洲新闻台,https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 新加坡U频道,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
