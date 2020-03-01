@@ -34,7 +34,7 @@
 普宁综合,rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
 
 ﻿潮云-香港-常用
-TVB J2,http://pulljd-live.baijiayun.com/live/728aa1ac07a14734b2aa1f2a.m3u8
+TVB J2,http://103.56.112.40/kds/igt.php?id=12
 TVB J2,http://h.weijuntww.top/atv/01kjzcom.m3u8
 TVB J2,http://hls.hongxin123.com/918867252917/stream.m3u8
 TVB J2,http://27.148.162.45/918867252917/stream__redirect__42714.m3u8
@@ -412,22 +412,25 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 汽车会展,http://nclive.grtn.cn/qchzpd/sd/live.m3u8
 
 ﻿潮云-香港
-TVB翡翠台,http://pulljd-live.baijiayun.com/live/dcd8b789c0b91bbcg39ea88dt.m3u8
+TVB翡翠台,http://103.56.112.40/kds/igt.php?id=1
 TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠台,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠台,vjms://23.237.33.155:8500:3502/live/cid=362
-TVB無綫新聞,http://pulljd-live.baijiayun.com/live/1a01b7621f51223a3ca71b2c9.m3u8
+TVB無綫新聞,http://103.56.112.40/kds/igt.php?id=9
 TVB無綫新聞,http://www.liveviptv.xyz/tv/tvb.php
 TVB無綫新聞,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB無綫新聞,vjms://58.215.133.185:8500:3502/live/cid=366
 TVB無綫新聞,vjms://23.237.33.155:8500:3502/live/cid=366
+TVB無綫財經資訊,http://103.56.112.40/kds/igt.php?id=10
+TVB明珠台,http://103.56.112.40/kds/igt.php?id=13
 TVB明珠台,http://stream.guihet.com/tv/116.php?id=12
 TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB明珠台,vjms://58.215.133.185:8500:3502/live/cid=367
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367
-ViuTv,http://pulljd-live.baijiayun.com/live/c9a141bcda4aa68a35c7d.m3u8
+TVB星河台,http://103.56.112.40/kds/igt.php?id=17
+ViuTv,http://103.56.112.40/kds/igt.php?id=8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
@@ -439,7 +442,7 @@ ViuTv,http://pulljd-live.baijiayun.com/live/c9a141bcda4aa68a35c7d.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有線電視18台,vjms://58.215.133.185:8500:3502/live/cid=364
 有線電視18台,vjms://23.237.33.155:8500:3502/live/cid=364
-RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
+RHK-31電視台,http://103.56.112.40/kds/igt.php?id=20
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-32電視台,http://61.93.125.49:9981/stream/channelid/1937987518?ticket=86a4cdeced8f00e53b3f0410f8f565741e14ea3f&profile=pass
 RHK-32電視台,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
