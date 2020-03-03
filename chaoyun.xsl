@@ -1,5 +1,5 @@
 ﻿潮云-潮汕
-港台频道不定时修复,
+轮播频道已修复,
 汕头综合,rtsp://183.58.12.204/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://player.ioioz.com/18/tv.php?tv=cutv1&id=gdsttv1
