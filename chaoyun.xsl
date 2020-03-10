@@ -596,14 +596,18 @@ CGTN-西班牙语,http://stream.guihet.com/migu/index.php?id=609006450
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-英语,rtmp://58.200.131.2:1935/livetv/cctv16
 CNC新华社,http://livecdn1.news.cn/cnccn/manifest.m3u8
+CETV-1,http://playykt.eduyun.cn/live/cetv1.m3u8
 CETV-1,rtmp://58.200.131.2:1935/livetv/cetv1
 CETV-1,http://stream.guihet.com/migu/index.php?id=649531734
 CETV-1,http://stream.guihet.com/migu/index.php?id=649531772
 CETV-1,http://39.135.36.146:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&amp;Contentid=1000000002000027253&amp;livemode=1&amp;stbId=005203FF000360100001001A34C0CD33&amp;userToken=4ef1f6fdd53988bdf19472c73151206f21vv&amp;usergroup=g21077200000&amp;version=1.0&amp;owaccmark=1000000002000027253&amp;owchid=ystenlive&amp;owsid=1106497909461616097&amp;AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhOJwKbFFUvff7rym6ZRGjqhoGIqpkmAjf48GP9I33YEiXzrp2cuKEymd6COk8Pa3q
+CETV-2,http://playykt.eduyun.cn/live/cetv2.m3u8
 CETV-2,rtmp://58.200.131.2:1935/livetv/cetv2
 CETV-2,http://stream.guihet.com/migu/index.php?id=649532169
+CETV-3,http://playykt.eduyun.cn/live/cetv3.m3u8
 CETV-3,rtmp://58.200.131.2:1935/livetv/cetv3
 CETV-3,http://stream.guihet.com/migu/index.php?id=649531756
+CETV-4,http://playykt.eduyun.cn/live/cetv4.m3u8
 CETV-4,rtmp://58.200.131.2:1935/livetv/cetv4
 CETV-4,http://stream.guihet.com/migu/index.php?id=649531725
 
