@@ -47,22 +47,24 @@ TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
 鳳凰中文,http://liveali.ifeng.com/live/FHZW.flv
+鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+鳳凰中文,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
 鳳凰中文,http://live.centerch.com/fhzw.m3u8
 鳳凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 鳳凰中文,http://stream.guihet.com/tv/116.php?id=190
 鳳凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/01.m3u8
 鳳凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,rtmp://58.200.131.2:1935/livetv/fhzw
 鳳凰中文,vjms://58.215.133.185:8500:3502/live/cid=400
 鳳凰中文,vjms://23.237.33.155:8500:3502/live/cid=400
 鳳凰資訊,http://liveali.ifeng.com/live/FHZX.flv
+鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+鳳凰資訊,http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
 鳳凰資訊,http://live.centerch.com/fhzx.m3u8
 鳳凰資訊,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813
 鳳凰資訊,https://116.77.72.195/streams/d/fhzx/playlist.m3u8
 鳳凰資訊,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-鳳凰資訊,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
 鳳凰資訊,vjms://58.215.133.185:8500:3502/live/cid=401
 鳳凰資訊,vjms://23.237.33.155:8500:3502/live/cid=401
