@@ -46,9 +46,9 @@ TVB J2,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
 TVB J2,vjms://58.215.133.185:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=368
 TVB J2,vjms://23.237.33.155:8500:3502/live/cid=363
-鳳凰中文,http://liveali.ifeng.com/live/FHZW.flv
 鳳凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 鳳凰中文,http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+鳳凰中文,http://liveali.ifeng.com/live/FHZW.flv
 鳳凰中文,http://live.centerch.com/fhzw.m3u8
 鳳凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 鳳凰中文,http://stream.guihet.com/tv/116.php?id=190
